@@ -1,0 +1,28 @@
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\bin\Debug\net8.0\TetrisTest.exe
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\bin\Debug\net8.0\TetrisTest.deps.json
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\bin\Debug\net8.0\TetrisTest.runtimeconfig.json
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\bin\Debug\net8.0\TetrisTest.dll
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\bin\Debug\net8.0\TetrisTest.pdb
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.AssemblyInfoInputs.cache
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.AssemblyInfo.cs
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.csproj.CoreCompileInputs.cache
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.dll
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\refint\TetrisTest.dll
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.pdb
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\TetrisTest.genruntimeconfig.cache
+C:\Users\BergA\OneDrive - FUJITSU\Desktop\Kodtest\Tetris\obj\Debug\net8.0\ref\TetrisTest.dll
+c:\Users\BergA\repos\Tetris\bin\Debug\net8.0\TetrisTest.exe
+c:\Users\BergA\repos\Tetris\bin\Debug\net8.0\TetrisTest.deps.json
+c:\Users\BergA\repos\Tetris\bin\Debug\net8.0\TetrisTest.runtimeconfig.json
+c:\Users\BergA\repos\Tetris\bin\Debug\net8.0\TetrisTest.dll
+c:\Users\BergA\repos\Tetris\bin\Debug\net8.0\TetrisTest.pdb
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.AssemblyInfoInputs.cache
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.AssemblyInfo.cs
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.csproj.CoreCompileInputs.cache
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.dll
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\refint\TetrisTest.dll
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.pdb
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\TetrisTest.genruntimeconfig.cache
+c:\Users\BergA\repos\Tetris\obj\Debug\net8.0\ref\TetrisTest.dll
