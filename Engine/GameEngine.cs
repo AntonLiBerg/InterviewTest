@@ -13,14 +13,14 @@ public class GameEngine
         Console.WindowHeight = height;
         Console.CursorVisible = false;
 
-        _map = new Dictionary<(int, int), string>();
-        _dotDrawer = new DotDrawer();
         _input = new WASDInput();
+        _dotDrawer = new DotDrawer();
         _game = new Game(_dotDrawer, _input);
+        _map = new Dictionary<(int, int), string>();
 
         aTimer = new System.Timers.Timer();
-        aTimer.Elapsed += delegate { RunGame(); };
         aTimer.Interval = interval;
+        aTimer.Elapsed += delegate { RunGame(); };
 
         for (int x = 0; x < 12; x++)
         {
@@ -41,17 +41,17 @@ public class GameEngine
 
     private void RunGame()
     {
-        if (!_input.AnyKeyDown && Console.KeyAvailable && !ShouldEnd)
-        {
-            var key = Console.ReadKey(true).KeyChar;
-            if (key == 'w' || key == 'W')
-                _input.WKeyDown = true;
-            if (key == 'a' || key == 'A')
-                _input.AKeyDown = true;
-            if (key == 's' || key == 'S')
-                _input.SKeyDown = true;
-            if (key == 'd' || key == 'D')
-                _input.DKeyDown = true;
+      if (!_input.AnyKeyDown && Console.KeyAvailable && !ShouldEnd)
+      {
+        var key = Console.ReadKey(true).KeyChar;
+        if (key == 'w' || key == 'W')
+          _input.WKeyDown = true;
+        if (key == 'a' || key == 'A')
+          _input.AKeyDown = true;
+        if (key == 's' || key == 'S')
+          _input.SKeyDown = true;
+        if (key == 'd' || key == 'D')
+          _input.DKeyDown = true;
 
             if (key == 'q' || key == 'Q')
             {
@@ -76,7 +76,7 @@ public class GameEngine
           Console.SetCursorPosition(kvp.Key.Item1,kvp.Key.Item2);
           Console.Write(kvp.Value);
         }
-_dotDrawer.ToDraw.Clear();
+        _dotDrawer.ToDraw.Clear();
         _input.Clear();
     }
 }
