@@ -14,15 +14,15 @@ public class Game
     }
     private void RenderExampleCode()
     {
-        dotDrawer.DrawDot(0, 0);
-        dotDrawer.DrawDot(1, 1);
         dotDrawer.DrawDot(2, 2);
         dotDrawer.DrawDot(3, 3);
+        dotDrawer.DrawDot(3, 2);
+        dotDrawer.DrawDot(4, 3);
 
-        dotDrawer.DrawDot(11, 13);
-        dotDrawer.DrawDot(10, 13);
-        dotDrawer.DrawDot(10, 12);
-        dotDrawer.DrawDot(11, 12);
+        dotDrawer.DrawDot(8, 9);
+        dotDrawer.DrawDot(8, 10);
+        dotDrawer.DrawDot(9, 10);
+        dotDrawer.DrawDot(9, 11);
 
         if (input.WKeyDown)
           dotDrawer.DrawDot(6, 5);
